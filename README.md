@@ -1,5 +1,5 @@
 ## 💫 About Me:
-#Software Engineer | DevOps Enthusiast | AWS Certified Cloud Practitioner 👨🏽‍💻
+##Software Engineer | DevOps Enthusiast | AWS Certified Cloud Practitioner 👨🏽‍💻
 
 
 ## 🌐 Socials:
