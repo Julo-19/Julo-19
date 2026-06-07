@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Souleymane 👋</h1>
+<h1 align="center">Hey, I'm Souleymane (JULO) 👋</h1>
 
 <p align="center">
   <b>Full-stack Developer · DevOps Enthusiast · AWS Certified Cloud Practitioner</b><br/>
@@ -7,16 +7,19 @@
 
 <p align="center">
   <a href="https://souleymane-barro.tech">
-    
+    <img src="https://img.shields.io/badge/●%20souleymane--barro.tech-1D9E75?style=flat-square&labelColor=1D9E75&color=E1F5EE&logoColor=085041" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/souleymane-ke%C3%AFta-barro-76162b1b3/">
-    <img src="https://img.shields.io/badge/LinkedIn-Souleymane_Keita_Barro-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/●%20LinkedIn-378ADD?style=flat-square&labelColor=378ADD&color=E6F1FB&logoColor=0C447C" />
   </a>
+  &nbsp;
   <a href="https://x.com/Julo_19">
-    <img src="https://img.shields.io/badge/X-@Julo__19-black?style=flat-square&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/●%20@Julo__19-888780?style=flat-square&labelColor=888780&color=F1EFE8&logoColor=444441" />
   </a>
+  &nbsp;
   <a href="mailto:souleymanekeitabarro@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/●%20Email-D85A30?style=flat-square&labelColor=D85A30&color=FAECE7&logoColor=712B13" />
   </a>
 </p>
 
@@ -63,6 +66,12 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
+
+### 🔍 Code Quality & Review
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
