@@ -1,11 +1,6 @@
 <table>
 <tr>
-<td valign="top" width="200">
 
-<img src="https://avatars.githubusercontent.com/u/81830924?v=4" width="180" style="border-radius:50%"/>
-
-</td>
-<td valign="top">
 
 ### Souleymane Keita BARRO
 **Full-stack Developer · DevOps Enthusiast**  
