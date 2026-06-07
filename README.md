@@ -1,27 +1,26 @@
-<h1 align="center">Hey, I'm JULO 👋</h1>
+<table>
+<tr>
+<td valign="top" width="200">
 
-<p align="center">
-  <b>Full-stack Developer · DevOps Enthusiast · AWS Certified Cloud Practitioner</b><br/>
-  Based in Dakar, Senegal 🇸🇳
-</p>
+<img src="https://avatars.githubusercontent.com/u/81830924?v=4" width="180" style="border-radius:50%"/>
 
-<p align="center">
-  <a href="https://souleymane-barro.tech">
-    <img src="https://img.shields.io/badge/●%20souleymane--barro.tech-1D9E75?style=flat-square&labelColor=1D9E75&color=E1F5EE" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/souleymane-ke%C3%AFta-barro-76162b1b3/">
-    <img src="https://img.shields.io/badge/●%20LinkedIn-378ADD?style=flat-square&labelColor=378ADD&color=E6F1FB" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/Julo_19">
-    <img src="https://img.shields.io/badge/●%20@Julo__19-888780?style=flat-square&labelColor=888780&color=F1EFE8" />
-  </a>
-  &nbsp;
-  <a href="mailto:souleymanekeitabarro@gmail.com">
-    <img src="https://img.shields.io/badge/●%20Email-D85A30?style=flat-square&labelColor=D85A30&color=FAECE7" />
-  </a>
-</p>
+</td>
+<td valign="top">
+
+### Souleymane Keita BARRO
+**Full-stack Developer · DevOps Enthusiast**  
+**AWS Certified Cloud Practitioner** 🇸🇳
+
+📍 Dakar, Senegal
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-souleymane--barro.tech-2ea44f?style=flat-square)](https://souleymane-barro.tech)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Souleymane_Barro-0a66c2?style=flat-square)](https://www.linkedin.com/in/souleymane-ke%C3%AFta-barro-76162b1b3/)
+[![X](https://img.shields.io/badge/𝕏_Twitter-@Julo__19-000000?style=flat-square)](https://x.com/Julo_19)
+[![Email](https://img.shields.io/badge/✉️_Email-souleymanekeitabarro-ea4335?style=flat-square)](mailto:souleymanekeitabarro@gmail.com)
+
+</td>
+</tr>
+</table>
 
 ---
 
