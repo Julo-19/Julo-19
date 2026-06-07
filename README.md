@@ -1,10 +1,6 @@
 <table>
 <tr>
-<td valign="top" width="200">
 
-<img src="https://avatars.githubusercontent.com/u/81830924?v=4" width="180" style="border-radius:50%"/>
-
-</td>
 <td valign="top">
 
 ### Souleymane Keita BARRO
@@ -102,12 +98,12 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy-beta-pink.vercel.app/?username=Julo-19&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" />
-</p>
+</p> -->
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Julo-19&style=flat-square&color=blue" alt="profile views" />
-</p>
+</p> -->
