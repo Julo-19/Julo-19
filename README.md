@@ -8,7 +8,7 @@
 
 📍 Dakar, Senegal
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-souleymane--barro.tech-2ea44f?style=flat-square)](https://souleymane-barro.tech)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-souleymane--barro.tech-2ea44f?style=flat-square)](https://souleymane-barro.tech) <br/>
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Souleymane_Barro-0a66c2?style=flat-square)](https://www.linkedin.com/in/souleymane-ke%C3%AFta-barro-76162b1b3/)
 [![X](https://img.shields.io/badge/𝕏_Twitter-@Julo__19-000000?style=flat-square)](https://x.com/Julo_19)
 [![Email](https://img.shields.io/badge/✉️_Email-souleymanekeitabarro-ea4335?style=flat-square)](mailto:souleymanekeitabarro@gmail.com)
