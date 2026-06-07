@@ -1,6 +1,11 @@
 <table>
 <tr>
+<td valign="top" width="200">
 
+<img src="https://avatars.githubusercontent.com/u/81830924?v=4" width="180" style="border-radius:50%"/>
+
+</td>
+<td valign="top">
 
 ### Souleymane Keita BARRO
 **Full-stack Developer · DevOps Enthusiast**  
@@ -11,7 +16,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-souleymane--barro.tech-2ea44f?style=flat-square)](https://souleymane-barro.tech) <br/>
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Souleymane_Barro-0a66c2?style=flat-square)](https://www.linkedin.com/in/souleymane-ke%C3%AFta-barro-76162b1b3/) <br/>
 [![X](https://img.shields.io/badge/𝕏_Twitter-@Julo__19-000000?style=flat-square)](https://x.com/Julo_19) <br/>
-[![Email](https://img.shields.io/badge/✉️_Email-souleymanekeitabarro-ea4335?style=flat-square)](mailto:souleymanekeitabarro@gmail.com)
+[![Email](https://img.shields.io/badge/✉️_Email-souleymanekeitabarro-ea4335?style=flat-square)](mailto:souleymanekeitabarro@gmail.com) <br/>
 
 </td>
 </tr>
@@ -98,7 +103,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Julo-19&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" />
+  <img src="https://github-profile-trophy-beta-pink.vercel.app/?username=Julo-19&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" />
 </p>
 
 ---
