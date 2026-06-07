@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Souleymane 👋</h1>
+<h1 align="center">Hey, I'm Souleymane (JULO) 👋</h1>
 
 <p align="center">
   <b>Full-stack Developer · DevOps Enthusiast · AWS Certified Cloud Practitioner</b><br/>
@@ -81,11 +81,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Julo-19&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Julo-19&theme=tokyonight&hide_border=true" height="160" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Julo-19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://streak-stats.demolab.com?user=Julo-19&theme=tokyonight&hide_border=true" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julo-19&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julo-19&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -93,11 +94,11 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Julo-19&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Julo-19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Julo-19&icon=0&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=Julo-19&style=flat-square&color=blue" alt="profile views" />
 </p>
