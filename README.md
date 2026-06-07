@@ -1,7 +1,4 @@
-<table>
-<tr>
 
-<td valign="top">
 
 ### Souleymane Keita BARRO
 **Full-stack Developer · DevOps Enthusiast**  
@@ -14,9 +11,7 @@
 [![X](https://img.shields.io/badge/𝕏_Twitter-@Julo__19-000000?style=flat-square)](https://x.com/Julo_19) <br/>
 [![Email](https://img.shields.io/badge/✉️_Email-souleymanekeitabarro-ea4335?style=flat-square)](mailto:souleymanekeitabarro@gmail.com) <br/>
 
-</td>
-</tr>
-</table>
+
 
 ---
 
